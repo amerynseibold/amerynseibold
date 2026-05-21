@@ -33,7 +33,7 @@ Portfolio and operations-focused business site showcasing workflow systems, inte
 
 ## Live Projects
 
-- :contentReference[oaicite:0]{index=0}
+- [Auxilium Business Solutions](https://auxiliumbusiness.com)
 
 ## Philosophy
 
