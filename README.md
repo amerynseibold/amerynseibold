@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ameryn Seibold
 
-<!--
-**amerynseibold/amerynseibold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building modern operational tools and workflow systems for small businesses.
 
-Here are some ideas to get you started:
+## Current Projects
+- SnapQuote — mobile-first tree service quoting platform
+- Bulk Material Demo App — customer-facing aggregate quote request system
+- Auxilium — operational workflow and automation portfolio site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Workflow automation
+- Internal operational tools
+- Mobile-first business applications
+- Reporting & process optimization
+- Next.js / Supabase systems
+
+## Tech Stack
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Vercel
+- React
+
+## Live Projects
+- https://auxiliumbusiness.com
